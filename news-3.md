@@ -19,4 +19,4 @@ We can only imagine how relieved this farmer must be, as we country people all k
  
 We hope they are up for some interview with us, to let us know more about this intriguing find !
  
-Here is the photo a curious citizen was able to capture:
+The article features a photo one of our curious citizens was able to capture.
