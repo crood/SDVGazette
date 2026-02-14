@@ -4,7 +4,7 @@ poster: icerod.png
 ---
 #  Frozen (but without Elsa)
 
-Today the townsfolk heard a song coming from the depths of the mines near the mountain lake.
+Today the townsfolk heard a song coming from the depths of the **mines** near the **mountain lake**.
 
 It went something like this:
 
