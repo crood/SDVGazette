@@ -15,5 +15,4 @@ Shortly thereafter, half-frozen slimes ran all over the town in pure despair and
 
 We here at the Stardew Valley Gazette have been taking bets as high as 10,000 gold 🪙 on whether this will finally cause **Krobus** to leave that reeking **sewer** and step into the daylight.
 
-
 We’ll keep you posted on the outcome.
