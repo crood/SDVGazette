@@ -1,6 +1,6 @@
 ---
 date: 2026-02-13
-poster: placeholder3.png
+poster: placeholder4.png
 ---
 #  🔥 A farmer in despair 🔥
 

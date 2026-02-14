@@ -1,6 +1,6 @@
 ---
 date: 2026-02-12
-poster: ostrichegg.webp
+poster: ostrichegg.png
 ---
 #  The oval 'thing'
 
