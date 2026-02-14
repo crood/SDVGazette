@@ -1,2 +1,2 @@
 # SDVGazette
-Fictional Newspaper for SDV
+Fictional Newspaper for SDV 🐮
