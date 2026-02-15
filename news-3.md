@@ -2,7 +2,7 @@
 date: 2026-02-13
 poster: autopetter.png
 ---
-#  A surprise and a rare blessing
+# A surprise and a rare blessing
 
 Hear, hear! Dear Stardew Valley citizens, it has happened. The frantic farmer, who had ventured off to Ginger Island after some traumatic experience regarding some Ostrich device, has returned.
  

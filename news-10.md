@@ -2,13 +2,13 @@
 date: 2026-02-15
 poster: homeexplosion2.png
 ---
-#  A minor accident ???
+# 💣 A minor accident ???
 
 Important news ! To all Stardew citizens, located on the west side of the valley, please be cautious.
 
 Or do you have to be ???
 
-Actually we are not sure what we wanted to warn you about.
+Actually, we are not sure what we wanted to warn you about.
 
 All of our news reporters are mumbling something about memories, of an explosion in the late afternoon, but now... it is **morning**.. **not afternoon**.
 

@@ -2,7 +2,7 @@
 date: 2026-02-14
 poster: icerod.png
 ---
-#  Frozen (but without Elsa)
+# Frozen (but without Elsa)
 
 Today the townsfolk heard a song coming from the depths of the **mines** near the **mountain lake**.
 

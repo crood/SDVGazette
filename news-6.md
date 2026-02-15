@@ -2,7 +2,7 @@
 date: 2026-02-13
 poster: professor.png
 ---
-#  Prisoner of the Cave
+# Prisoner of the Cave
 
 Today, to our surprise, we obtained a letter from our new farmer. They just wanted to let us, the local newspaper, and in turn the town's folks, know that they freed an old man from a **cave** on Ginger Island.
 

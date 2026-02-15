@@ -2,7 +2,7 @@
 date: 2026-02-13
 poster: placeholder4.png
 ---
-#  🔥 A farmer in despair 🔥
+# 🔥 A farmer in despair 🔥
 
 The farmer who has been reported earlier today  to have found an ostrich egg and was later giving an excited interview has been spotted running around restless in the town.
  

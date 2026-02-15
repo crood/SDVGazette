@@ -2,7 +2,7 @@
 date: 2026-02-15
 poster: homeexplosion.png
 ---
-#  A minor accident
+# 💣 A minor accident
 
 Important news ! To all Stardew citizens, located on the west side of the valley, please be cautious.
 
