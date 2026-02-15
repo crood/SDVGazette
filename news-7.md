@@ -2,8 +2,10 @@
 date: 2026-02-14
 poster: toad.png
 ---
-#  RIBBIT - The Story of a Craving
-
+#  🐸 "RIBBIT"
+---
+### **The tale of a craving**
+---
 Sometimes, when you sit long enough in a dark cave with nothing but a few smoking pipes filled with who-knows-what hallucinogenic “tobacco,” you simply forget to leave.
 
 You wake up one day to realize you’ve spent years dreaming and imagining things about life and the universe itself.
