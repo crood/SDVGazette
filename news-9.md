@@ -16,8 +16,7 @@ One may say Marnie has proven herself to be a **Cow-Powered-Fire-Tuck**.
 Our reporter at the scene found that five of the farmer's **Crystalariums** were blown out of existence... or rather ... completely eradicated.
 
 
-Marnie told the news reporter that she had tried to calm the farmer, they were extremely upset because they managed to accidentally release a bomb from their backpack, just after they managed to get a somewhat stable small scale **Jade** replication set up.
-The farmer, however, just turned around to be alone for a while in their nearby shed.
+Marnie told the news reporter that she had tried to calm the farmer. They were extremely upset because they managed to accidentally release a **Bomb** from their **Backpack** just after they managed to get a somewhat stable, small scale **Jade** replication set up.
+The farmer, however, just turned around and walked away towards their nearby **Shed**.
 
-
-They'd left the scene with the words ***"Excuse me M'am, I'ma need a moment by myself"***
+They'd left the scene with the words: "***Excuse me M'am, I'ma need a moment by myself***"
