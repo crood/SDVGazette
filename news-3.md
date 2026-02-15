@@ -2,9 +2,9 @@
 date: 2026-02-13
 poster: autopetter.png
 ---
-#  A suprise and a rare blessing
+#  A surprise and a rare blessing
 
-Hear Hear ! Dear Stardew Valley citizens, it has happened. The frantic farmer, who had ventured off to Ginger Island after some traumatic experience regarding some Ostrich device, has returned.
+Hear, hear! Dear Stardew Valley citizens, it has happened. The frantic farmer, who had ventured off to Ginger Island after some traumatic experience regarding some Ostrich device, has returned.
  
 However, today they re-appeared - to everyone's surprise - not from the Ginger Island Ferry but came storming back into the valley from the Calico Desert Bus.
  

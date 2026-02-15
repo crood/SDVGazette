@@ -10,8 +10,6 @@ The farmer was concerned that someone was missing this old man. Maybe his family
 
 They then rambled for a few more sentences about reimbursement of expenses. It seems they had to use one or more of their home-made **bombs** to get inside of the cave. They then concluded that it would be okay as a life was rescued that day, and ended the paragraph with a sudden "whatever".
 
-Nontheless, they wanted to make sure to let everyone know, that in case someone knows him, he can be picked up at a **tent** near the **digging site** on **Ginger Island**.
+Nonetheless, they wanted to make sure to let everyone know, that in case someone knows him, he can be picked up at a **tent** near the **digging site** on **Ginger Island**.
 
 The farmer did pass along to us, that it is very important, to not let this old man anywhere near **Cave Mushroom Salad** as there may be some traumatic connection.
-
-

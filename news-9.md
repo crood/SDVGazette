@@ -6,7 +6,7 @@ poster: homeexplosion.png
 
 Important news ! To all Stardew citizens, located on the west side of the valley, please be cautious.
 
-Today a huge explosion ocurred on our new farmer's ranch. 
+Today a huge explosion occurred on our new farmer's ranch. 
 
 Marnie, who is living south of the ranch came running with buckets full of water to help extinguish the fires that came to be as result of the explosion.
 She brought along a herd of her cows to which she had strapped even more water buckets. 
@@ -20,4 +20,4 @@ Marnie told the news reporter that she had tried to calm the farmer, they were e
 The farmer, however, just turned around to be alone for a while in their nearby shed.
 
 
-They'd left the scene with the words " I'ma need a moment by myself"
+They'd left the scene with the words ***"Excuse me M'am, I'ma need a moment by myself"***
